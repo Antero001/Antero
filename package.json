@@ -1,7 +1,7 @@
 {
-  "name": "AlphabotMD",
+  "name": "AnteroBot",
   "version": "1.0.7",
-  "description": "Alpha Bot Multi Device, Only update in YouTube ZEEONE OFC",
+  "description": "Semoga bisa digunakan dengan Bijak",
   "main": "zeeone.js",
   "directories": {
     "lib": "lib"
